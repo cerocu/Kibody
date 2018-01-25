@@ -1,0 +1,123 @@
+# Blender3D MTL File: 
+# Material Count: 11
+newmtl 24_485d2ca0obj.004_0_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.004_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.002_0_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_473398b8obj_0.5_0_belt_d.tga
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd belt_d.tga
+
+
+newmtl 24_485d58c0obj_0.5_0_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.00_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_47338db0obj_0.5_0_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.002_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_4733a3c0obj_0.5_0_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.001_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
+newmtl 24_485d2ca0obj.003_body_diffuse.tga.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body_diffuse.tga
+
+
