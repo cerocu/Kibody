@@ -5,11 +5,11 @@
 REQUERIMIENTOS MÍNIMOS DE HARDWARE
 •	Procesador: Core o equivalente.
 •	Memoria RAM: Mínimo: 2 GB de RAM, 4 GB recomendada
-•	Espacio: 1.400 Gigabytes (GB)
+•	Espacio: 1.440 Gigabytes (GB)
 •	El sensor de Kinect para Xbox360
 •	Tarjeta gráfica que soporte Microsoft DirectX® 9.0c
 REQUERIMIENTOS MÍNIMOS DE SOFTWARE
 •	Privilegios de administrador
 •	Sistema Operativo: Windows 8 en adelante
-•	Driver Kinect para windows v1.8
+•	Driver de Kinect para windows v1.8
 
