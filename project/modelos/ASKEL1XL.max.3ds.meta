@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: db83e92dfa7bce74485afa5a817da0b0
+timeCreated: 1512360249
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: clavical
+    100004: femurl
+    100006: femurr
+    100008: fibular
+    100010: footl
+    100012: footr
+    100014: handr
+    100016: humorusr
+    100018: jaw
+    100020: jteeth
+    100022: lhand
+    100024: lhumorus
+    100026: lradius
+    100028: lulna
+    100030: patellal
+    100032: patellar
+    100034: pelvis
+    100036: radiusr
+    100038: ribs
+    100040: scapula
+    100042: skull
+    100044: spine
+    100046: steeth
+    100048: sternum
+    100050: tibial
+    100052: tibiar
+    100054: tibulal
+    100056: ulnar
+    400000: //RootNode
+    400002: clavical
+    400004: femurl
+    400006: femurr
+    400008: fibular
+    400010: footl
+    400012: footr
+    400014: handr
+    400016: humorusr
+    400018: jaw
+    400020: jteeth
+    400022: lhand
+    400024: lhumorus
+    400026: lradius
+    400028: lulna
+    400030: patellal
+    400032: patellar
+    400034: pelvis
+    400036: radiusr
+    400038: ribs
+    400040: scapula
+    400042: skull
+    400044: spine
+    400046: steeth
+    400048: sternum
+    400050: tibial
+    400052: tibiar
+    400054: tibulal
+    400056: ulnar
+    2300000: clavical
+    2300002: femurl
+    2300004: femurr
+    2300006: fibular
+    2300008: footl
+    2300010: footr
+    2300012: handr
+    2300014: humorusr
+    2300016: jaw
+    2300018: jteeth
+    2300020: lhand
+    2300022: lhumorus
+    2300024: lradius
+    2300026: lulna
+    2300028: patellal
+    2300030: patellar
+    2300032: pelvis
+    2300034: radiusr
+    2300036: ribs
+    2300038: scapula
+    2300040: skull
+    2300042: spine
+    2300044: steeth
+    2300046: sternum
+    2300048: tibial
+    2300050: tibiar
+    2300052: tibulal
+    2300054: ulnar
+    3300000: clavical
+    3300002: femurl
+    3300004: femurr
+    3300006: fibular
+    3300008: footl
+    3300010: footr
+    3300012: handr
+    3300014: humorusr
+    3300016: jaw
+    3300018: jteeth
+    3300020: lhand
+    3300022: lhumorus
+    3300024: lradius
+    3300026: lulna
+    3300028: patellal
+    3300030: patellar
+    3300032: pelvis
+    3300034: radiusr
+    3300036: ribs
+    3300038: scapula
+    3300040: skull
+    3300042: spine
+    3300044: steeth
+    3300046: sternum
+    3300048: tibial
+    3300050: tibiar
+    3300052: tibulal
+    3300054: ulnar
+    4300000: clavical
+    4300002: scapula
+    4300004: humorusr
+    4300006: ulnar
+    4300008: radiusr
+    4300010: femurr
+    4300012: tibiar
+    4300014: fibular
+    4300016: patellar
+    4300018: footr
+    4300020: ribs
+    4300022: sternum
+    4300024: pelvis
+    4300026: spine
+    4300028: femurl
+    4300030: tibial
+    4300032: tibulal
+    4300034: patellal
+    4300036: footl
+    4300038: lhumorus
+    4300040: lulna
+    4300042: lradius
+    4300044: skull
+    4300046: steeth
+    4300048: jaw
+    4300050: jteeth
+    4300052: handr
+    4300054: lhand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
